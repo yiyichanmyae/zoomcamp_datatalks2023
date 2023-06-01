@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dell/Documents/notebooks_mlops/homework/homework2/mlruns/339509799680233505/27f584b15b6349d2ad1bf000f0fddb4e/artifacts
+end_time: 1685639827227
+entry_point_name: ''
+experiment_id: '339509799680233505'
+lifecycle_stage: active
+run_id: 27f584b15b6349d2ad1bf000f0fddb4e
+run_name: stylish-kit-570
+run_uuid: 27f584b15b6349d2ad1bf000f0fddb4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685639811198
+status: 3
+tags: []
+user_id: dell
