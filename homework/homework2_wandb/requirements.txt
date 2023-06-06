@@ -1,0 +1,6 @@
+wandb
+matplotlib
+pandas
+scikit-learn
+pyarrow
+jupyter

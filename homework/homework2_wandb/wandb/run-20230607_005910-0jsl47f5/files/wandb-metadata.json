@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-06T18:29:11.420029",
+    "startedAt": "2023-06-06T18:29:10.240039",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "TaxiNYC",
+        "--wandb_entity",
+        "yiyichanmyaewinshein",
+        "--data_artifact",
+        "yiyichanmyaewinshein/TaxiNYC/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/home/dell/Documents/zoomcamp_datatalks2023/homework/homework2_wandb/sweep.py",
+    "codePath": "homework/homework2_wandb/sweep.py",
+    "git": {
+        "remote": "https://github.com/yiyichanmyae/zoomcamp_datatalks2023.git",
+        "commit": "4911a4ff42d8ab0193079412fede93dc9101115e"
+    },
+    "email": "yiyichanmyaewinshein@robust.best",
+    "root": "/home/dell/Documents/zoomcamp_datatalks2023",
+    "host": "ubuntulinux",
+    "username": "dell",
+    "executable": "/home/dell/anaconda3/envs/env_wandb/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3100.086875,
+        "min": 400.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3150.459,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3100.231,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3101.627,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3105.521,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3117.489,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3100.167,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3105.283,
+            "min": 400.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3100.389,
+            "min": 400.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "total": 112.11807250976562,
+        "used": 91.77471160888672
+    },
+    "memory": {
+        "total": 15.371257781982422
+    }
+}

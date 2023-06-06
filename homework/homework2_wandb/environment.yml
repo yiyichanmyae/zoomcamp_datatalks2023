@@ -1,0 +1,7 @@
+name: env_wandb
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip:
+    - -r requirements.txt
